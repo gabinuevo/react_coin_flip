@@ -6,8 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-          <Megabox/>
-          <button>OBAMA 2020</button>
+          <Megabox />
       </div>
     );
   }
